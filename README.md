@@ -8,13 +8,12 @@ PhpMyAdmin is an open source tool where you can administer your MariaDB database
 
 If your website is using a database, this is where all the data of your site is stored. For example, WordPress stores all your posts, comments and articles in a database.
 
-[Reference](https://help.one.com/hc/en-us/articles/115005585509-How-do-I-access-the-database-using-phpMyAdmin-)
+[Reference](https://wpmudev.com/blog/setting-up-xampp/)
 
 
   > **VISUAL**
-![DATABASE](https://help.one.com/hc/article_attachments/360012325978/cp-php-database-settings.png)
+![260069972_634991817530405_8497472667741729323_n](https://user-images.githubusercontent.com/53900313/143481542-c8da7be5-614a-4f65-87ab-23797a81f743.jpg)
 
-![PHP](https://help.one.com/hc/article_attachments/360012325998/click-database-name.png)
 
   > **INSTALLATION**
 {
