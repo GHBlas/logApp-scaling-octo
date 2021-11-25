@@ -1,5 +1,4 @@
-# logApp-scaling-octo
- # README
+# README
 
  > **NAME**
 How do I access the database using phpMyAdmin?
